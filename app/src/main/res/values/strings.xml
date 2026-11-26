@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">i-Pilot Voz</string>
+    <string name="a11y_desc">Permite tocar nos botões do app i-Pilot quando você fala um comando de voz.</string>
+</resources>
